@@ -127,7 +127,7 @@ public class FormCadastro extends AppCompatActivity {
         .addOnFailureListener(new OnFailureListener() {
             @Override
             public void onFailure(@NonNull Exception e) {
-                Log.d("BancoDeDados Falha", "Falha ao salvar os dados!" + e.toString());
+                Log.d("BancoDeDados Falha", "Falha ao salvar os dado!" + e.toString());
             }
         });
     }
