@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "408979515531",
+    "project_id": "ponto-rouxinol",
+    "storage_bucket": "ponto-rouxinol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408979515531:android:868a6c4b9141dbbe2a4c8e",
+        "android_client_info": {
+          "package_name": "com.empresa.pontorouxinol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408979515531-3qv1ut5pe83lt8t5k8ba2bh181tq51uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4wqfniILLZIyNIcwjLrQJO7NyB04KISQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408979515531-3qv1ut5pe83lt8t5k8ba2bh181tq51uj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
